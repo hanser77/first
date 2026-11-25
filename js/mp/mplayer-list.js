@@ -89,7 +89,7 @@ var mplayer_song = [
 		},
 		{
 			"name": "花之塔",
-			"singer": "周翔宇",
+			"singer": "紫",
 			"img": "images/404.jpg",
 			"src": "audio.mp3",
 			"lrc": ""
