@@ -88,10 +88,10 @@ var mplayer_song = [
 			"slrc": "audio/lrc/happy.lrc"
 		},
 		{
-			"name": "404",
-			"singer": "-",
+			"name": "花之塔",
+			"singer": "紫",
 			"img": "images/404.jpg",
-			"src": "audio/404.mp3",
+			"src": "audio.mp3",
 			"lrc": ""
 		},
 		{
