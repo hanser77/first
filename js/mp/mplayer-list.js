@@ -89,7 +89,7 @@ var mplayer_song = [
 		},
 		{
 			"name": "花之塔",
-			"singer": "王俊杰",
+			"singer": "周翔宇",
 			"img": "images/404.jpg",
 			"src": "audio.mp3",
 			"lrc": ""
